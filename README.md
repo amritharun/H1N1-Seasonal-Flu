@@ -12,6 +12,6 @@ foo@bar:~$ python3 data_cleaning.py
 ```
 4. Now to access the cleaned data for visualization/analysis use:
 ```python
-df = pd.read_pickle('data.pkl')
+pd.read_pickle('data.pkl')
 ```
 5. Enjoy!
