@@ -38,8 +38,8 @@ categorical = ['age_group','education','race', 'sex',
 
 for category in categorical:
         df[category] = df[category].astype("category")
-        df['household_adults'] = df['household_adults'].astype('int8')
-        df['household_children'] = df['household_children'].astype('int8')
+df['household_adults'] = df['household_adults'].astype('int8')
+df['household_children'] = df['household_children'].astype('int8')
 
 
 
