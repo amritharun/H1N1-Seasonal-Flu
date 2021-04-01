@@ -15,3 +15,11 @@ foo@bar:~$ python3 data_cleaning.py path/to/data/file
 pd.read_pickle('data/data.pkl')
 ```
 5. Enjoy! :smile:
+
+
+
+### Tasks:
+1. Garvit & Amrit: Data Cleaning, Pre-processing, Feauture Engineering.
+2. Shruti: Ensemble Models (3 Models)
+3. Kinjal: Linear and Tree Based Models (3 Models)
+4. Abhishek: Neural Models (3 Models)
