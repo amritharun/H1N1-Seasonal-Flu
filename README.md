@@ -1,5 +1,7 @@
 # H1N1-Seasonal-Flu
 
+### DON'T USE THE PICKLE DATA, ITS MISSING IMPORTANT COLUMNS, USE THE ORIGINAL DATA.
+
 ### Setup
 1. Activate virtual environment using your preferred package. (optional)
 2. Install packages required to run code:
