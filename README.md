@@ -1,6 +1,7 @@
 # H1N1-Seasonal-Flu
 
-### DON'T USE THE PICKLE DATA, ITS MISSING IMPORTANT COLUMNS, USE THE ORIGINAL DATA.
+### UPDATED:
+USE "data_cols_used" for anaytics and pre-processing.
 
 ### Setup
 1. Activate virtual environment using your preferred package. (optional)
